@@ -68,6 +68,9 @@ All in a clean, intuitive dashboard built for simplicity.
     │── assets/
     │   ├── demo.mp4
     │   ├── logo.png
+    │   │── Screenshots/
+    │       │── Screenshot-1.png
+    │       │── Screenshot-2.png
     │
     │── index.css
     │── App.jsx
