@@ -7,9 +7,12 @@ All in a clean, intuitive dashboard built for simplicity.
 
 🚀 Features
 
+<ul>
 📊 Interactive Dashboard
+
 <li>View net balance, income, expenses, and savings rate</li>
 <li>Visual charts (Bar, Pie, Line) for financial insights</li>
+</ul>
 
 💸 Transaction Management
 <ul>
