@@ -40,3 +40,13 @@ All in a clean, intuitive dashboard built for simplicity.
 <li>Smooth UI interactions</li>
 </ul>
 <hr>
+
+🛠️ Tech Stack
+<ul>
+<li>Frontend: React (Hooks + Context API)</li>
+<li>Styling: Tailwind CSS</li>
+<li>Charts: Chart.js + react-chartjs-2</li>
+<li>State Management: Context API</li>
+<li>Storage: LocalStorage</li>
+</ul>
+<hr>
