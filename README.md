@@ -100,3 +100,11 @@ Run the app
 <li>View dashboard insights</li>
 <li>Analyze spending trends</li>
 </ol>
+<hr>
+
+🔐 Roles
+
+• Admin
+    • Add/Delete transactions
+• User
+    • View data only
