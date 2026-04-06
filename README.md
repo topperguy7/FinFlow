@@ -105,7 +105,7 @@ Run the app
 🔐 Roles
 
 • Admin<br>
-        • Add/Delete transactions
+<li>Add/Delete transactions</li>
     
 • User<br>
     • View data only
