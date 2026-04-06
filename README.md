@@ -94,7 +94,9 @@ Run the app
 <hr>
 
 🎯 Usage
-Open the app
-Add transactions (Admin role)
-View dashboard insights
-Analyze spending trends
+<ol>
+<li>Open the app</li>
+<li>Add transactions (Admin role)</li>
+<li>View dashboard insights</li>
+<li>Analyze spending trends</li>
+</ol>
