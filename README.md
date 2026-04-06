@@ -92,3 +92,9 @@ Run the app
 
     npm run dev
 <hr>
+
+🎯 Usage
+Open the app
+Add transactions (Admin role)
+View dashboard insights
+Analyze spending trends
