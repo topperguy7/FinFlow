@@ -73,3 +73,17 @@ All in a clean, intuitive dashboard built for simplicity.
     │── App.jsx
     │── main.jsx
 <hr>
+
+⚙️ Installation & Setup
+
+# Clone the repo
+git clone https://github.com/topperguy7/finflow.git
+
+# Navigate into project
+cd finflow
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
