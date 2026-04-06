@@ -1,0 +1,113 @@
+@import 'tailwindcss';
+
+*{
+  box-sizing: border-box;
+}
+
+html{
+  font-family: "poppins", "roboto", sans-serif;
+  font-size: 1.2rem;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+:root{
+  --bg: #f0f7ff;
+  --text: black;
+  --bg1: #afbce7;
+  --bg1d: hsl(226, 62%, 70%);
+  --btn: hsl(222, 57%, 61%);
+  --bg-image: radial-gradient(ellipse 65% 55% at 10% 35%,  rgba(147, 197, 253, 0.6)  0%, transparent 70%),
+    radial-gradient(ellipse 55% 50% at 90% 25%,  rgba(219, 234, 254, 0.8)  0%, transparent 65%),
+    radial-gradient(ellipse 50% 40% at 50% 95%,  rgba(147, 197, 253, 0.4)  0%, transparent 60%),
+    radial-gradient(ellipse 35% 30% at 70% 60%,  rgba(191, 219, 254, 0.35) 0%, transparent 55%);
+}
+
+.dark{
+  --bg: #0a0f1a;
+  --text: white;
+  --bg1: rgb(11, 61, 106);
+  --bg1d: hsl(209, 49%, 31%);
+  --btn: hsl(228, 60%, 34%);
+  --bg-image:radial-gradient(ellipse 60% 50% at 15% 40%, rgba(30, 60, 120, 0.55) 0%, transparent 70%),
+    radial-gradient(ellipse 50% 45% at 85% 30%, rgba(10, 80, 70, 0.45) 0%, transparent 65%),
+    radial-gradient(ellipse 40% 35% at 50% 90%, rgba(20, 30, 80, 0.3) 0%, transparent 60%);
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+  
+  min-height: 100vh;
+  background-color: var(--bg);
+  background-image: var(--bg-image);
+  color: var(--text);
+}
+
+.navbar-comp{
+  background-color: var(--bg1);
+}
+
+.role-drop{
+  background: var(--bg1);
+}
+
+.trans-comp{
+  background-color: var(--bg1);
+}
+
+.trans-comp td{
+  transition: all ease-in-out 0.2s;
+}
+
+.trans-comp td:hover{
+  background-color: var(--bg1d);
+}
+
+.addform label{
+  font-size: 1.2rem;
+  margin: 4px;
+}
+
+.addform input{
+  background: var(--bg1);
+  border-radius: 10px;
+  padding: 4px;
+}
+
+.addform select{
+  background: var(--bg1);
+  border-radius: 10px;
+  padding: 4px;
+}
+
+.addform button{
+  margin-top: 20px;
+  padding: 4px 12px;
+  background-color: var(--bg1);
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+
+  transition: all ease-in-out 0.2s;
+  cursor: pointer;
+}
+
+.addform button:hover{
+  transform: translateY(-2px);
+}
+
+.addform button:active{
+  transform: scale(0.95);
+}
+
+.card-top{
+  background-color: var(--bg1d);
+  border: 1px solid var(--text);
+}
+
+.card-bot > div{
+  background-color: var(--bg1);
+  border: 1px solid var(--text);
+}
