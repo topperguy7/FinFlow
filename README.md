@@ -19,20 +19,24 @@ All in a clean, intuitive dashboard built for simplicity.
 <li>Search by date, category, description, or amount</li>
 </ul>
 
-🧠 Smart Insights<br>
+🧠 Smart Insights
 <ul>
 <li>Detect spending trends</li>
 <li>Identify top spending categories</li>
 <li>Show savings/overspending alerts</li>
 </ul>
 
-🎨 Modern UI<br>
+🎨 Modern UI
+<ul>
 <li>Fully responsive design</li>
 <li>Dark / Light mode toggle</li>
 <li>Styled with Tailwind CSS</li>
+</ul>
 
-⚡ Other Highlights<br>
+⚡ Other Highlights
+<ul>
 <li>Role-based access (Admin/User)</li>
 <li>Local storage persistence</li>
 <li>Smooth UI interactions</li>
+</ul>
 <hr>
