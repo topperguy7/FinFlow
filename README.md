@@ -110,3 +110,23 @@ Run the app
 • User<br>
 -- View data only --
 <hr>
+
+📸 Screenshots
+
+![Dashboard](./Screenshots/Screenshot-1.png)
+![Insights](./Screenshots/Screenshot-2.png)
+<hr>
+
+🌟 Future Improvements
+<ul>
+<li>🔄 Cloud sync (Firebase / backend)</li>
+<li>📱 Mobile app version</li>
+<li>📊 More advanced analytics</li>
+<li>👥 Multi-user support</li>
+</ul>
+
+<hr>
+
+📄 License
+
+This project is licensed under the MIT License.
