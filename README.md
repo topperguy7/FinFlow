@@ -8,6 +8,7 @@ All in a clean, intuitive dashboard built for simplicity.
 🌐 Live
 
 https://finflow-topperguy.netlify.app/
+<hr>
 
 🚀 Features
 
