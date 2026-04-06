@@ -8,20 +8,20 @@ All in a clean, intuitive dashboard built for simplicity.
 🚀 Features
 
 📊 Interactive Dashboard
-<li></li>View net balance, income, expenses, and savings rate
-<li></li>Visual charts (Bar, Pie, Line) for financial insights
+<li>View net balance, income, expenses, and savings rate</li>
+<li>Visual charts (Bar, Pie, Line) for financial insights</li>
 💸 Transaction Management
-Add, delete, and filter transactions
-Search by date, category, description, or amount
+<li></li>Add, delete, and filter transactions
+<li></li>Search by date, category, description, or amount
 🧠 Smart Insights
-Detect spending trends
-Identify top spending categories
-Show savings/overspending alerts
+<li></li>Detect spending trends
+<li></li>Identify top spending categories
+<li></li>Show savings/overspending alerts
 🎨 Modern UI
-Fully responsive design
-Dark / Light mode toggle
-Styled with Tailwind CSS
+<li></li>Fully responsive design
+<li></li>Dark / Light mode toggle
+<li></li>Styled with Tailwind CSS
 ⚡ Other Highlights
-Role-based access (Admin/User)
-Local storage persistence
-Smooth UI interactions
+<li></li>Role-based access (Admin/User)
+<li></li>Local storage persistence
+<li></li>Smooth UI interactions
