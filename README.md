@@ -76,14 +76,19 @@ All in a clean, intuitive dashboard built for simplicity.
 
 ⚙️ Installation & Setup
 
-# Clone the repo
-git clone https://github.com/topperguy7/finflow.git
+Clone the repo
 
-# Navigate into project
-cd finflow
+    git clone https://github.com/topperguy7/finflow.git
 
-# Install dependencies
-npm install
+Navigate into project
 
-# Run the app
-npm run dev
+    cd finflow
+
+Install dependencies
+
+    npm install
+
+Run the app
+
+    npm run dev
+<hr>
