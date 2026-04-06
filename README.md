@@ -12,10 +12,12 @@ All in a clean, intuitive dashboard built for simplicity.
 <li>Visual charts (Bar, Pie, Line) for financial insights</li>
 
 💸 Transaction Management
+
 <li>Add, delete, and filter transactions</li>
 <li>Search by date, category, description, or amount</li>
 
 🧠 Smart Insights
+
 <li>Detect spending trends</li>
 <li>Identify top spending categories</li>
 <li>Show savings/overspending alerts</li>
