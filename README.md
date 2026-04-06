@@ -50,3 +50,26 @@ All in a clean, intuitive dashboard built for simplicity.
 <li>Storage: LocalStorage</li>
 </ul>
 <hr>
+
+📂 Project Structure
+
+    src/
+    │── components/
+    │   ├── Navbar.jsx
+    │   ├── Hero.jsx
+    │   ├── Dashboard.jsx
+    │   ├── Transactions.jsx
+    │   ├── Insights.jsx
+    │
+    │── context/
+    │   ├── DataContext.jsx
+    │   ├── UIContext.jsx
+    │
+    │── assets/
+    │   ├── demo.mp4
+    │   ├── logo.png
+    │
+    │── index.css
+    │── App.jsx
+    │── main.jsx
+<hr>
