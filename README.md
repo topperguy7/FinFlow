@@ -113,8 +113,8 @@ Run the app
 
 📸 Screenshots
 
-![Dashboard](./Screenshots/Screenshot-1.png)
-![Insights](./Screenshots/Screenshot-2.png)
+![Dashboard](./src/assets/Screenshots/Screenshot-1.png)
+![Insights](./src/assets/Screenshots/Screenshot-2.png)
 <hr>
 
 🌟 Future Improvements
